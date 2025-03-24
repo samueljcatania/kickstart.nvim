@@ -7,8 +7,5 @@ editor
 
 spell/
 
-# Ignoring until you extract out the ANTHROPIC_API_KEY
-init.lua
-
 # Aider
 .aider*
